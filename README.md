@@ -15,3 +15,8 @@
 
 上限只测试到10000000个，再往上加貌似不增加了
 
+---
+
+**青龙面板**
+
+ql repo https://github.com/z919126592/dingtalkcreatelike.git
