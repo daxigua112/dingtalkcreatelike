@@ -2,6 +2,7 @@
 钉钉直播刷赞 Shell
 
 **使用方法**
+
 使用前请先确保是群直播，而不是电话或互动课堂
 需要在直播时抓到直播id，id为 xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx 的格式
 新建环境变量 [liveid] ，内容为直播id
