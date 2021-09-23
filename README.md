@@ -20,3 +20,5 @@
 **青龙面板**
 
 ql repo https://github.com/z919126592/dingtalkcreatelike.git
+
+设置环境变量，点击运行即可
