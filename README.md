@@ -22,3 +22,5 @@
 ql repo https://github.com/z919126592/dingtalkcreatelike.git
 
 设置环境变量，点击运行即可
+
+默认设置为一分钟执行一次
